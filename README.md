@@ -1,4 +1,4 @@
-# 👋 ¡Hola, soy Daromegal!
+# 👋 ¡Hola, soy DaromeGal!
 
 🎓 Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**  
 💻 Apasionado por el **backend**, la **programación en Java** y todo lo que tenga que ver con crear cosas útiles.  
