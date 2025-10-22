@@ -18,7 +18,6 @@
 
 ### 🌟 Contacto
 📫 **Email:** *dromaymendez@gmail.com*  
-🌍 **GitHub:** [github.com/daromegal](https://github.com/daromegal)
 
 ---
 
